@@ -1,1 +1,1 @@
-This is my personal website and resume
+This is my personal website.
